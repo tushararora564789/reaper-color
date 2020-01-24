@@ -27,4 +27,4 @@ client.on('message', (message) => {
         if (message.content === '::start') {stop.splice(stop.indexOf(message.guild.id),1); return message.channel.send('✅Started sucessfully\n Made by roshan45');}
     }
 })
-client.login("your token");
+client.login("NjcwMjUyMTA2NTk4MzE4MTE4.XirrPQ.iOkXcTB9W2La_iWtmZnKmcD5XlM");
